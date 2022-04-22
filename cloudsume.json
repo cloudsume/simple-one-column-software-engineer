@@ -1,0 +1,19 @@
+{
+  "data": [
+    "name",
+    "email",
+    "website",
+    "mobile",
+    "education",
+    "experience",
+    "skill"
+  ],
+  "options": {
+    "experience": {
+      "descriptionListOptions": "noitemsep,topsep=0pt,after=\\smallskip"
+    },
+    "skill": {
+      "grouping": 1
+    }
+  }
+}
